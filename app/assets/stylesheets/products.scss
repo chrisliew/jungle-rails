@@ -27,6 +27,10 @@ main section.categories-show {
         display: block;
       }
 
+      header.sold_out {
+        color: green;
+      }
+
       footer {
         position: absolute;
         bottom: 0;
