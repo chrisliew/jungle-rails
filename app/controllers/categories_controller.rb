@@ -4,4 +4,5 @@ class CategoriesController < ApplicationController
     @categories = Category.all.order(created_at: :desc)
   end
 
+  
 end
